@@ -1,0 +1,3386 @@
+{
+    "Dive_man_right_1126.png": {
+        "left_hand": {
+            "x": 93,
+            "y": 102,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 89,
+            "y": 101,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 103,
+            "y": 89,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 102,
+            "y": 90,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 113,
+            "y": 75,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 115,
+            "y": 81,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 150,
+            "y": 59,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 150,
+            "y": 63,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 175,
+            "y": 47,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 173,
+            "y": 50,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 202,
+            "y": 35,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 198,
+            "y": 36,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 110,
+            "y": 88,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 114,
+            "y": 78,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1127.png": {
+        "left_hand": {
+            "x": 88,
+            "y": 112,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 83,
+            "y": 111,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 98,
+            "y": 99,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 97,
+            "y": 100,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 107,
+            "y": 85,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 109,
+            "y": 90,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 143,
+            "y": 68,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 144,
+            "y": 72,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 169,
+            "y": 56,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 167,
+            "y": 59,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 195,
+            "y": 43,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 191,
+            "y": 44,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 104,
+            "y": 98,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 108,
+            "y": 88,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1128.png": {
+        "left_hand": {
+            "x": 87,
+            "y": 119,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 82,
+            "y": 117,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 96,
+            "y": 106,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 96,
+            "y": 107,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 106,
+            "y": 92,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 108,
+            "y": 97,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 143,
+            "y": 76,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 143,
+            "y": 79,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 168,
+            "y": 64,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 167,
+            "y": 66,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 195,
+            "y": 51,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 191,
+            "y": 52,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 103,
+            "y": 105,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 107,
+            "y": 95,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1129.png": {
+        "left_hand": {
+            "x": 86,
+            "y": 125,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 81,
+            "y": 124,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 95,
+            "y": 113,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 95,
+            "y": 113,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 105,
+            "y": 100,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 107,
+            "y": 104,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 142,
+            "y": 84,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 142,
+            "y": 87,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 168,
+            "y": 72,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 166,
+            "y": 74,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 194,
+            "y": 60,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 191,
+            "y": 60,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 102,
+            "y": 111,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 106,
+            "y": 102,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1130.png": {
+        "left_hand": {
+            "x": 84,
+            "y": 132,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 80,
+            "y": 130,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 94,
+            "y": 119,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 94,
+            "y": 120,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 104,
+            "y": 107,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 107,
+            "y": 110,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 141,
+            "y": 91,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 142,
+            "y": 94,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 167,
+            "y": 80,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 166,
+            "y": 81,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 194,
+            "y": 68,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 190,
+            "y": 68,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 101,
+            "y": 118,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 105,
+            "y": 109,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1131.png": {
+        "left_hand": {
+            "x": 83,
+            "y": 139,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 79,
+            "y": 137,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 93,
+            "y": 126,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 93,
+            "y": 126,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 103,
+            "y": 114,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 106,
+            "y": 117,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 140,
+            "y": 99,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 141,
+            "y": 101,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 166,
+            "y": 88,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 165,
+            "y": 89,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 193,
+            "y": 76,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 190,
+            "y": 76,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 100,
+            "y": 125,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 105,
+            "y": 116,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1132.png": {
+        "left_hand": {
+            "x": 82,
+            "y": 145,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 77,
+            "y": 143,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 92,
+            "y": 133,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 92,
+            "y": 133,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 102,
+            "y": 121,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 105,
+            "y": 124,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 140,
+            "y": 106,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 140,
+            "y": 108,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 166,
+            "y": 96,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 164,
+            "y": 96,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 193,
+            "y": 85,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 190,
+            "y": 84,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 99,
+            "y": 132,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 104,
+            "y": 123,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1133.png": {
+        "left_hand": {
+            "x": 81,
+            "y": 152,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 76,
+            "y": 149,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 91,
+            "y": 140,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 91,
+            "y": 139,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 101,
+            "y": 129,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 104,
+            "y": 130,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 139,
+            "y": 114,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 140,
+            "y": 115,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 165,
+            "y": 104,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 164,
+            "y": 104,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 192,
+            "y": 93,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 189,
+            "y": 92,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 98,
+            "y": 139,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 103,
+            "y": 130,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1134.png": {
+        "left_hand": {
+            "x": 80,
+            "y": 158,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 75,
+            "y": 156,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 90,
+            "y": 147,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 90,
+            "y": 146,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 101,
+            "y": 136,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 103,
+            "y": 137,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 138,
+            "y": 122,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 139,
+            "y": 123,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 165,
+            "y": 112,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 163,
+            "y": 111,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 192,
+            "y": 101,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 189,
+            "y": 100,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 97,
+            "y": 146,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 102,
+            "y": 136,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1135.png": {
+        "left_hand": {
+            "x": 79,
+            "y": 165,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 74,
+            "y": 162,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 89,
+            "y": 154,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 89,
+            "y": 153,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 100,
+            "y": 143,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 102,
+            "y": 144,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 138,
+            "y": 129,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 138,
+            "y": 130,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 164,
+            "y": 120,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 163,
+            "y": 119,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 191,
+            "y": 110,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 188,
+            "y": 107,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 96,
+            "y": 152,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 101,
+            "y": 143,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1136.png": {
+        "left_hand": {
+            "x": 78,
+            "y": 171,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 73,
+            "y": 169,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 88,
+            "y": 161,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 88,
+            "y": 159,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 99,
+            "y": 150,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 102,
+            "y": 150,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 137,
+            "y": 137,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 138,
+            "y": 137,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 163,
+            "y": 128,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 163,
+            "y": 128,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 191,
+            "y": 118,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 188,
+            "y": 115,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 95,
+            "y": 159,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 100,
+            "y": 150,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1137.png": {
+        "left_hand": {
+            "x": 78,
+            "y": 176,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 74,
+            "y": 173,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 89,
+            "y": 166,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 88,
+            "y": 164,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 99,
+            "y": 156,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 102,
+            "y": 155,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 138,
+            "y": 142,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 138,
+            "y": 142,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 164,
+            "y": 133,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 164,
+            "y": 134,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 192,
+            "y": 124,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 189,
+            "y": 121,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 96,
+            "y": 164,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 101,
+            "y": 155,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1138.png": {
+        "left_hand": {
+            "x": 78,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 74,
+            "y": 178,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 89,
+            "y": 171,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 89,
+            "y": 168,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 100,
+            "y": 161,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 103,
+            "y": 160,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 138,
+            "y": 148,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 139,
+            "y": 147,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 165,
+            "y": 139,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 165,
+            "y": 141,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 193,
+            "y": 130,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 189,
+            "y": 127,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 96,
+            "y": 169,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 101,
+            "y": 160,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1139.png": {
+        "left_hand": {
+            "x": 79,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 74,
+            "y": 183,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 90,
+            "y": 176,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 90,
+            "y": 173,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 101,
+            "y": 166,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 103,
+            "y": 164,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 139,
+            "y": 153,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 140,
+            "y": 153,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 166,
+            "y": 145,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 166,
+            "y": 147,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 194,
+            "y": 136,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 190,
+            "y": 133,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 97,
+            "y": 174,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 102,
+            "y": 165,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1140.png": {
+        "left_hand": {
+            "x": 79,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 75,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 90,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 90,
+            "y": 178,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 101,
+            "y": 171,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 104,
+            "y": 169,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 140,
+            "y": 159,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 141,
+            "y": 158,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 167,
+            "y": 151,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 167,
+            "y": 153,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 195,
+            "y": 142,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 191,
+            "y": 139,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 97,
+            "y": 179,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 103,
+            "y": 170,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1141.png": {
+        "left_hand": {
+            "x": 80,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 75,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 91,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 91,
+            "y": 183,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 102,
+            "y": 176,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 105,
+            "y": 174,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 141,
+            "y": 164,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 141,
+            "y": 163,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 168,
+            "y": 157,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 168,
+            "y": 159,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 196,
+            "y": 149,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 192,
+            "y": 145,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 98,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 103,
+            "y": 175,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1142.png": {
+        "left_hand": {
+            "x": 80,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 76,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 91,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 91,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 103,
+            "y": 182,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 105,
+            "y": 179,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 141,
+            "y": 170,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 142,
+            "y": 168,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 169,
+            "y": 162,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 169,
+            "y": 165,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 197,
+            "y": 155,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 192,
+            "y": 151,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 98,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 104,
+            "y": 180,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1143.png": {
+        "left_hand": {
+            "x": 81,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 76,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 92,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 92,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 103,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 106,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 142,
+            "y": 175,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 143,
+            "y": 174,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 170,
+            "y": 170,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 169,
+            "y": 171,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 197,
+            "y": 161,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 193,
+            "y": 157,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 99,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 105,
+            "y": 185,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1144.png": {
+        "left_hand": {
+            "x": 81,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 77,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 93,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 92,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 104,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 107,
+            "y": 188,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 143,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 144,
+            "y": 179,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 171,
+            "y": 177,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 170,
+            "y": 177,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 198,
+            "y": 167,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 194,
+            "y": 162,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 99,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 105,
+            "y": 190,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1145.png": {
+        "left_hand": {
+            "x": 84,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 79,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 95,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 95,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 107,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 109,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 146,
+            "y": 182,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 147,
+            "y": 180,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 174,
+            "y": 180,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 173,
+            "y": 179,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 201,
+            "y": 169,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 197,
+            "y": 164,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 102,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 108,
+            "y": 191,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1146.png": {
+        "left_hand": {
+            "x": 86,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 82,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 98,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 98,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 110,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 112,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 150,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 150,
+            "y": 182,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 177,
+            "y": 182,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 176,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 204,
+            "y": 170,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 200,
+            "y": 165,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 105,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 111,
+            "y": 191,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1147.png": {
+        "left_hand": {
+            "x": 89,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 85,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 101,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 101,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 114,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 115,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 153,
+            "y": 185,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 153,
+            "y": 183,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 181,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 180,
+            "y": 183,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 207,
+            "y": 172,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 202,
+            "y": 167,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 108,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 114,
+            "y": 192,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1148.png": {
+        "left_hand": {
+            "x": 91,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 87,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 104,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 103,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 117,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 118,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 156,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 156,
+            "y": 185,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 184,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 183,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 210,
+            "y": 173,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 206,
+            "y": 168,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 111,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 117,
+            "y": 193,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1149.png": {
+        "left_hand": {
+            "x": 94,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 90,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 107,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 106,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 120,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 121,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 159,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 159,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 187,
+            "y": 188,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 186,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 213,
+            "y": 175,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 209,
+            "y": 170,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 114,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 121,
+            "y": 193,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1150.png": {
+        "left_hand": {
+            "x": 97,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 93,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 110,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 109,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 123,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 124,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 163,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 162,
+            "y": 188,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 191,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 189,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 216,
+            "y": 177,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 212,
+            "y": 171,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 117,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 124,
+            "y": 194,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1151.png": {
+        "left_hand": {
+            "x": 97,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 93,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 111,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 110,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 124,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 125,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 164,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 163,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 191,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 190,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 217,
+            "y": 178,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 212,
+            "y": 173,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 117,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 124,
+            "y": 195,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1152.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 94,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 111,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 110,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 125,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 125,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 164,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 164,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 192,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 191,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 218,
+            "y": 180,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 213,
+            "y": 174,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 118,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 125,
+            "y": 195,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1153.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 94,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 112,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 111,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 125,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 126,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 165,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 165,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 193,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 191,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 218,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 214,
+            "y": 176,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 118,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 126,
+            "y": 196,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1154.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 112,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 112,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 126,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 127,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 166,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 165,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 194,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 192,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 219,
+            "y": 183,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 215,
+            "y": 177,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 119,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 127,
+            "y": 197,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1155.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 112,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 127,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 166,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 220,
+            "y": 185,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 216,
+            "y": 179,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 127,
+            "y": 198,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1156.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 114,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 196,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1157.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 114,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 196,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 181,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1158.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 114,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 196,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 188,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 182,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1159.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 114,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 182,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1160.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 114,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 183,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1161.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1162.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 184,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1163.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 96,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 185,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1164.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 194,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 192,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1165.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 168,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 206,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 186,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1166.png": {
+        "left_hand": {
+            "x": 99,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 207,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 193,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 187,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1167.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 207,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 194,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 188,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 120,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1168.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 113,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 200,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 188,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 119,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1169.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 203,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 112,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 208,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 195,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 189,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 119,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1170.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 207,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 112,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 119,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1171.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 207,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 112,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 209,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 197,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 190,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 119,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    },
+    "Dive_man_right_1172.png": {
+        "left_hand": {
+            "x": 98,
+            "y": 207,
+            "in_front_of_cam": true
+        },
+        "right_hand": {
+            "x": 95,
+            "y": 202,
+            "in_front_of_cam": true
+        },
+        "left_elbow": {
+            "x": 113,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "right_elbow": {
+            "x": 112,
+            "y": 199,
+            "in_front_of_cam": true
+        },
+        "left_shoulder": {
+            "x": 128,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "right_shoulder": {
+            "x": 128,
+            "y": 196,
+            "in_front_of_cam": true
+        },
+        "left_hip": {
+            "x": 167,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "right_hip": {
+            "x": 167,
+            "y": 201,
+            "in_front_of_cam": true
+        },
+        "left_knee": {
+            "x": 195,
+            "y": 210,
+            "in_front_of_cam": true
+        },
+        "right_knee": {
+            "x": 193,
+            "y": 205,
+            "in_front_of_cam": true
+        },
+        "left_foot": {
+            "x": 221,
+            "y": 198,
+            "in_front_of_cam": true
+        },
+        "right_foot": {
+            "x": 217,
+            "y": 191,
+            "in_front_of_cam": true
+        },
+        "head": {
+            "x": 119,
+            "y": 204,
+            "in_front_of_cam": true
+        },
+        "sternum": {
+            "x": 128,
+            "y": 199,
+            "in_front_of_cam": true
+        }
+    }
+}
