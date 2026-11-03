@@ -1,10 +1,9 @@
 # Temporal 2D Swimmer Pose Estimation with Anatomical Constraints and Synthetic Data
 
-Official repository for the **3D procedural synthetic data generation pipeline** presented in:
+Official repository for the 3D procedural synthetic data generation pipeline presented in:
 
 > **Temporal 2D Swimmer Pose Estimation with Anatomical Constraints and Synthetic Data**  
-> Alexandre Gachenot, Vincent Lepetit, Rémi Carmigniani  
-> *[Paper Link]* (coming soon)
+> Alexandre Gachenot, Vincent Lepetit, Rémi Carmigniani
 
 This repository provides the Blender simulation environment, procedural rendering scripts with domain randomization, annotation verification tools, and temporal data packaging routines used to train our Sim2Real underwater pose estimation models.
 
@@ -19,8 +18,9 @@ This repository provides the Blender simulation environment, procedural renderin
 ├── pack_to_pickle.py              # Preprocessing script (7-frame temporal stacks / 21 channels)
 ├── pipeline.sh                    # SLURM execution script for GPU clusters
 ├── results/                       # Generated outputs
-├── hdri/                          # Blender scene assets and resources
-├── LICENSE
+├── hdri/                          # HDRI environment maps (CC0 1.0)
+├── LICENSE                        # MIT License (source code)
+├── ASSETS_LICENSE.md              # License & provenance of bundled assets (CC0)
 └── README.md
 ```
 
@@ -44,7 +44,7 @@ pip install numpy opencv-python
 You can run the full pipeline step by step:
 
 ```bash
-# 1. Procedural generation & 2D keypoint extraction in Blender (headless mode)
+# 1. Procedural generation and 2D keypoint extraction in Blender (headless mode)
 blender -b background_final_scene.blend -y -P render_pipeline.py
 
 # 2. (Optional) Visually inspect projected keypoints
@@ -84,4 +84,5 @@ The pipeline generates synthetic sequences covering all 4 competitive strokes (f
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE).
+* **Source code** (scripts, pipeline): [MIT License](LICENSE).
+* **HDRI environment maps** (`hdri/`): [CC0 1.0 Universal](ASSETS_LICENSE.md).
