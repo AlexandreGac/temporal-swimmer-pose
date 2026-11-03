@@ -3,7 +3,7 @@
 Official repository for the 3D procedural synthetic data generation pipeline presented in:
 
 > **Temporal 2D Swimmer Pose Estimation with Anatomical Constraints and Synthetic Data**  
-> Alexandre Gachenot, Vincent Lepetit, Rémi Carmigniani
+> Alexandre Gachenot, Vincent Lepetit, Rémi Carmigniani: **[Read the Paper](paper.pdf)**
 
 This repository provides the Blender simulation environment, procedural rendering scripts with domain randomization, annotation verification tools, and temporal data packaging routines used to train our Sim2Real underwater pose estimation models.
 
@@ -12,6 +12,7 @@ This repository provides the Blender simulation environment, procedural renderin
 ## Repository Structure
 
 ```text
+├── paper.pdf                      # Research paper
 ├── background_final_scene.blend   # 3D Blender scene (16 rigged meshes, cameras, shaders)
 ├── render_pipeline.py             # Headless rendering and 2D keypoint projection script
 ├── check_annotations.py           # Visual verification tool for projected 2D keypoints
