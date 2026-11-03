@@ -84,5 +84,5 @@ The pipeline generates synthetic sequences covering all 4 competitive strokes (f
 
 ## 📄 License
 
-* **Source code** (scripts, pipeline): [MIT License](LICENSE).
+* **Source code** (scripts, pipeline, dataset): [MIT License](LICENSE).
 * **HDRI environment maps** (`hdri/`): [CC0 1.0 Universal](ASSETS_LICENSE.md).
